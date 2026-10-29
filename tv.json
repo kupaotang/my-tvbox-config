@@ -1,6 +1,716 @@
 {
-  "sites": [],
-  "parses": [],
+  "sites": [
+    {
+      "key": "tv_back-023_csp_SNzy",
+      "name": "🐉┃索尼┃高清·ok线路1",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "tv_back-023_csp_小胡",
+      "name": "👒┃小胡┃资源┃·ok线路1",
+      "type": 1,
+      "api": "http://c.小胡.icu/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tv_back-023_csp_非凡资源",
+      "name": "🥗┃非凡┃资源·ok线路1",
+      "type": 1,
+      "api": "http://ffzy1.tv/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+    {
+      "key": "tv_back-023_量子资源",
+      "name": "🥑┃量子┃资源·ok线路1",
+      "type": 1,
+      "api": "https://lzizy1.com/api.php/provide/vod/",
+      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片"
+      ]
+    },
+    {
+      "key": "tv_back-023_49zy",
+      "name": "🦁┃四九┃资源·ok线路1",
+      "type": 1,
+      "api": "https://49zy1.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "国产剧",
+        "纪录片",
+        "欧美剧",
+        "香港剧",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "韩国剧",
+        "动漫",
+        "电影",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "台湾剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "泰国剧",
+        "日剧",
+        "电影解说",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "体育赛事",
+        "海外剧"
+      ]
+    },
+    {
+      "key": "tv_back-023_奇虎资源",
+      "name": "🐯┃奇虎┃采集·ok线路1",
+      "type": 1,
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "伦理片",
+        "纪录片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "日本剧",
+        "台湾剧",
+        "泰国剧",
+        "海外剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "欧美综艺",
+        "日韩综艺",
+        "动画片",
+        "体育",
+        "短剧",
+        "网络电影"
+      ]
+    },
+    {
+      "key": "tv_back-023_可可资源",
+      "name": "⛱┃可可┃采集·ok线路1",
+      "type": 1,
+      "api": "https://kekezy1.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "剧情片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "日本剧",
+        "台湾剧",
+        "泰国剧",
+        "海外剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺"
+      ]
+    },
+    {
+      "key": "tv_back-023_虎牙",
+      "name": "🐯虎牙采集·ok线路1",
+      "type": 1,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
+    {
+      "key": "tv_back-023_MV_vod",
+      "name": "🎹┃MTV┃合集·ok线路1",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tv_back-012_feifan",
+      "name": "🍀┃非凡┃资源·二月红接口",
+      "type": 1,
+      "api": "http://ffzy5.tv/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "战争片",
+        "国产剧",
+        "大陆综艺"
+      ],
+      "hide": 1
+    },
+    {
+      "key": "tv_back-023_taopian",
+      "name": "🕹️淘片┃采集·ok线路1",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫/国产动漫",
+        "动漫/日本动漫",
+        "动漫/欧美动漫",
+        "动漫/海外动漫",
+        "综艺/大陆综艺",
+        "综艺/港台综艺",
+        "综艺/日韩综艺",
+        "综艺/欧美综艺",
+        "综艺/海外综艺",
+        "电视剧/国产剧",
+        "电视剧/香港剧",
+        "电视剧/欧美剧",
+        "电视剧/海外剧",
+        "电视剧/韩国剧",
+        "电视剧/日本剧",
+        "电视剧/泰国剧",
+        "电视剧/台湾剧",
+        "电影/战争片",
+        "电影/科幻片",
+        "电影/奇幻片",
+        "电影/冒险片",
+        "电影/动画片",
+        "电影/喜剧片",
+        "电影/动作片",
+        "电影/爱情片",
+        "电影/恐怖片",
+        "电影/惊悚片",
+        "电影/剧情片",
+        "电影/悬疑片",
+        "电影/纪录片"
+      ]
+    },
+    {
+      "key": "tv_back-023_feisu",
+      "name": "🛰️飞速┃采集·ok线路1",
+      "type": 1,
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "海外动漫",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "泰国剧",
+        "纪录片",
+        "动画片",
+        "电影解说",
+        "其他片",
+        "其他剧",
+        "体育赛事",
+        "短剧"
+      ]
+    },
+    {
+      "key": "tv_back-023_火狐",
+      "name": "🦊火狐采集·ok线路1",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "categories": [
+        "内地剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "剧情片",
+        "冒险片",
+        "记录片",
+        "韩剧",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日剧",
+        "马泰剧",
+        "体育赛事",
+        "综艺",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫"
+      ]
+    },
+    {
+      "key": "tv_back-023_百度",
+      "name": "🎏百度┃采集·ok线路1",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 0
+    },
+    {
+      "key": "tv_back-024_暴風",
+      "name": "🦔暴風┃采集·荐片",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_back-024_索尼",
+      "name": "🦜索尼┃采集·荐片",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "tv_back-024_360",
+      "name": "🦚360┃采集·荐片",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "古装片",
+        "悬疑片",
+        "犯罪片",
+        "灾难片",
+        "国产剧",
+        "香港剧",
+        "韩国剧",
+        "欧美剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "国产动漫",
+        "欧美动漫",
+        "日韩动漫",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "女频恋爱",
+        "成长逆袭",
+        "反转爽剧"
+      ]
+    },
+    {
+      "key": "tv_back-023_暴风采集",
+      "name": "🌪️暴风影音·ok线路1",
+      "type": 1,
+      "api": "https://app.bfzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "动作片",
+        "科幻片",
+        "剧情片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "战争片",
+        "香港剧",
+        "台湾剧",
+        "日本剧",
+        "欧美剧",
+        "泰国剧",
+        "日本动漫",
+        "综艺频道",
+        "大陆综艺",
+        "港台综艺",
+        "日本综艺",
+        "新马泰综艺",
+        "纪录片"
+      ]
+    }
+  ],
+  "parses": [
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "789",
+      "type": 0,
+      "url": "https://m.789bh.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "VIP",
+      "type": 0,
+      "url": "https://6.789bh.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "PM",
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "看看",
+      "type": 0,
+      "url": "https://jx.m3u8.pw/?url="
+    },
+    {
+      "name": "咸鱼",
+      "type": 0,
+      "url": "https://jx.xyflv.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+          "referer": "https://www.xyflv.cc/"
+        }
+      }
+    },
+    {
+      "name": "云解析",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"
+        }
+      }
+    },
+    {
+      "name": "爱豆",
+      "type": 0,
+      "url": "https://jx.aidouer.net/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36",
+          "referer": "https://jiejie.uk/"
+        }
+      }
+    },
+    {
+      "name": "云解",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "咸鱼",
+      "type": 0,
+      "url": "https://jx.xymp4.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "七七",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://yemu.xyz/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    }
+  ],
   "lives": [
     {
       "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",1+1 Ukraina (1080p)",
@@ -8,14 +718,14 @@
       "url": "http://stream.mcquack.net/219/index.m3u8"
     },
     {
-      "name": "1+1 Marafon (1080p)",
-      "type": 0,
-      "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8"
-    },
-    {
       "name": "1+1 International HD (720p)",
       "type": 0,
       "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8"
+    },
+    {
+      "name": "1+1 Marafon (1080p)",
+      "type": 0,
+      "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8"
     },
     {
       "name": "1AlmereTV (720p)",
@@ -26,6 +736,11 @@
       "name": "1HD Music Television (1080p)",
       "type": 0,
       "url": "http://176.118.197.101/1HD/index.m3u8"
+    },
+    {
+      "name": "1KZN TV (576p)",
+      "type": 0,
+      "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
     },
     {
       "name": "1TV (720p)",
@@ -43,19 +758,14 @@
       "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8"
     },
     {
-      "name": "2M",
-      "type": 0,
-      "url": "http://185.9.2.18/chid_218/index.m3u8"
-    },
-    {
-      "name": "1KZN TV (576p)",
-      "type": 0,
-      "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
-    },
-    {
       "name": "1Twente TV (1080p)",
       "type": 0,
       "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8"
+    },
+    {
+      "name": "2M",
+      "type": 0,
+      "url": "http://185.9.2.18/chid_218/index.m3u8"
     },
     {
       "name": "2M Monde +1 (1080p)",
@@ -88,19 +798,14 @@
       "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8"
     },
     {
-      "name": "3ABN Kids",
-      "type": 0,
-      "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
-    },
-    {
-      "name": "2x2 (576i)",
-      "type": 0,
-      "url": "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https"
-    },
-    {
       "name": "3ABN Latino (1080p)",
       "type": 0,
       "url": "http://138.59.177.78:9999/play/a0a3/index.m3u8"
+    },
+    {
+      "name": "3ABN Kids",
+      "type": 0,
+      "url": "https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8"
     },
     {
       "name": "3ABN Praise Him Music Network",
@@ -113,9 +818,9 @@
       "url": "https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8"
     },
     {
-      "name": "3AW (1080p)",
+      "name": "2x2 (576i)",
       "type": 0,
-      "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8"
+      "url": "https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?e=2068731801&s=tenr-yHXUv1wibfka78s2A&scheme=https"
     },
     {
       "name": "3Cat Cameres del temps (1080p)",
@@ -123,14 +828,19 @@
       "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8"
     },
     {
-      "name": "3CatInfo (1080p)",
+      "name": "3AW (1080p)",
       "type": 0,
-      "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
+      "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8"
     },
     {
       "name": "3HD",
       "type": 0,
       "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8"
+    },
+    {
+      "name": "3CatInfo (1080p)",
+      "type": 0,
+      "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8"
     },
     {
       "name": "3ABN Russia (720p)",
@@ -153,14 +863,14 @@
       "url": "http://stream.mcquack.net/258/index.m3u8"
     },
     {
-      "name": "4ever Drama (1080p)",
-      "type": 0,
-      "url": "http://stream.mcquack.net/260/index.m3u8"
-    },
-    {
       "name": "4E (1080p)",
       "type": 0,
       "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
+    },
+    {
+      "name": "4ever Drama (1080p)",
+      "type": 0,
+      "url": "http://stream.mcquack.net/260/index.m3u8"
     },
     {
       "name": "4ever Music (1080p)",
@@ -168,19 +878,19 @@
       "url": "http://stream.mcquack.net/257/index.m3u8"
     },
     {
-      "name": "4ever Theater (1080p)",
-      "type": 0,
-      "url": "http://stream.mcquack.net/259/index.m3u8"
-    },
-    {
       "name": "4 Fun Dance",
       "type": 0,
       "url": "http://92.114.85.87:8018/play/a00k/index.m3u8"
     },
     {
-      "name": "4 Fun TV",
+      "name": "4ever Theater (1080p)",
       "type": 0,
-      "url": "https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8"
+      "url": "http://stream.mcquack.net/259/index.m3u8"
+    },
+    {
+      "name": "4 Fun Kids (576i)",
+      "type": 0,
+      "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8"
     },
     {
       "name": "4Kurd",
@@ -188,9 +898,9 @@
       "url": "https://4kuhls.persiana.live/hls/stream.m3u8"
     },
     {
-      "name": "4 Fun Kids (576i)",
+      "name": "4 Fun TV",
       "type": 0,
-      "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8"
+      "url": "https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8"
     }
   ]
 }
