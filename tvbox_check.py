@@ -18,7 +18,6 @@ INTERFACE_PAGES = [
 ]
 
 PARSE_CONFIG_URLS = [
-PARSE_CONFIG_URLS = [
     "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json",
 ]
 
