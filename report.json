@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:30:08.846317+00:00",
+  "generated_at": "2026-10-29T18:35:05.722074+00:00",
   "config_sources": [
     {
       "url": "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json",
@@ -21,14 +21,14 @@
       "reason": "地址可访问，未验证实际解析"
     },
     {
-      "name": "m3u8",
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
+      "name": "VIP",
+      "url": "https://6.789bh.com/?url=",
       "ok": true,
       "reason": "地址可访问，未验证实际解析"
     },
     {
-      "name": "VIP",
-      "url": "https://6.789bh.com/?url=",
+      "name": "m3u8",
+      "url": "https://jx.m3u8.tv/jiexi/?url=",
       "ok": true,
       "reason": "地址可访问，未验证实际解析"
     },
@@ -96,25 +96,19 @@
       "name": "小",
       "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url=",
       "ok": false,
-      "reason": "HTTPConnectionPool(host='43.136.176.188', port=91): Max retries exceeded with url: /api/?key=4ef232e96172b0bda78d393c695fe7c4&url= (Caused by ConnectTimeoutError(<HTTPConnection(host='43.136.176.188', port=91) at 0x7fdb597ddf10>, 'Connection to 43.136.176.188 timed out. (connect timeout=10)'))"
+      "reason": "HTTPConnectionPool(host='43.136.176.188', port=91): Max retries exceeded with url: /api/?key=4ef232e96172b0bda78d393c695fe7c4&url= (Caused by ConnectTimeoutError(<HTTPConnection(host='43.136.176.188', port=91) at 0x7f1af85dcdd0>, 'Connection to 43.136.176.188 timed out. (connect timeout=10)'))"
     },
     {
       "name": "王",
       "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url=",
       "ok": false,
-      "reason": "HTTPConnectionPool(host='122.228.84.103', port=7777): Max retries exceeded with url: /api/?key=4Dk5tdayvY6NZufEMG&url= (Caused by ConnectTimeoutError(<HTTPConnection(host='122.228.84.103', port=7777) at 0x7fdb59fdeb50>, 'Connection to 122.228.84.103 timed out. (connect timeout=10)'))"
+      "reason": "HTTPConnectionPool(host='122.228.84.103', port=7777): Max retries exceeded with url: /api/?key=4Dk5tdayvY6NZufEMG&url= (Caused by ConnectTimeoutError(<HTTPConnection(host='122.228.84.103', port=7777) at 0x7f1af85d2910>, 'Connection to 122.228.84.103 timed out. (connect timeout=10)'))"
     },
     {
       "name": "二",
       "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url=",
       "ok": false,
-      "reason": "HTTPConnectionPool(host='110.42.7.182', port=880): Max retries exceeded with url: /api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url= (Caused by ConnectTimeoutError(<HTTPConnection(host='110.42.7.182', port=880) at 0x7fdb597cfa50>, 'Connection to 110.42.7.182 timed out. (connect timeout=10)'))"
-    },
-    {
-      "name": "帅",
-      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
-      "ok": false,
-      "reason": "HTTPConnectionPool(host='pan.qiaoji8.com', port=80): Max retries exceeded with url: /tvbox/neibu.php?url= (Caused by ConnectTimeoutError(<HTTPConnection(host='pan.qiaoji8.com', port=80) at 0x7fdb597e3290>, 'Connection to pan.qiaoji8.com timed out. (connect timeout=10)'))"
+      "reason": "HTTPConnectionPool(host='110.42.7.182', port=880): Max retries exceeded with url: /api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url= (Caused by ConnectTimeoutError(<HTTPConnection(host='110.42.7.182', port=880) at 0x7f1af85d1350>, 'Connection to 110.42.7.182 timed out. (connect timeout=10)'))"
     },
     {
       "name": "777",
@@ -123,10 +117,10 @@
       "reason": "HTTPSConnectionPool(host='jx.777jiexi.com', port=443): Max retries exceeded with url: /player/?url= (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
     },
     {
-      "name": "jsonplayer",
-      "url": "https://jx.jsonplayer.com/player/?url=",
+      "name": "帅",
+      "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ok": false,
-      "reason": "HTTPSConnectionPool(host='jx.jsonplayer.com', port=443): Max retries exceeded with url: /player/?url= (Caused by NameResolutionError(\"HTTPSConnection(host='jx.jsonplayer.com', port=443): Failed to resolve 'jx.jsonplayer.com' ([Errno -2] Name or service not known)\"))"
+      "reason": "HTTPConnectionPool(host='pan.qiaoji8.com', port=80): Max retries exceeded with url: /tvbox/neibu.php?url= (Caused by ConnectTimeoutError(<HTTPConnection(host='pan.qiaoji8.com', port=80) at 0x7f1af85df050>, 'Connection to pan.qiaoji8.com timed out. (connect timeout=10)'))"
     },
     {
       "name": "肥猫最可爱",
@@ -147,22 +141,16 @@
       "reason": "HTTP 404"
     },
     {
-      "name": "米饭",
-      "url": "https://api.json.icu/api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url=",
-      "ok": false,
-      "reason": "HTTPSConnectionPool(host='api.json.icu', port=443): Max retries exceeded with url: /api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url= (Caused by NameResolutionError(\"HTTPSConnection(host='api.json.icu', port=443): Failed to resolve 'api.json.icu' ([Errno -2] Name or service not known)\"))"
-    },
-    {
       "name": "公众号：肥猫宝贝",
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ok": false,
       "reason": "HTTP 404"
     },
     {
-      "name": "8090",
-      "url": "https://www.8090.la/8090/?url=",
+      "name": "米饭",
+      "url": "https://api.json.icu/api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url=",
       "ok": false,
-      "reason": "HTTPSConnectionPool(host='www.8090.la', port=443): Max retries exceeded with url: /8090/?url= (Caused by NameResolutionError(\"HTTPSConnection(host='www.8090.la', port=443): Failed to resolve 'www.8090.la' ([Errno -2] Name or service not known)\"))"
+      "reason": "HTTPSConnectionPool(host='api.json.icu', port=443): Max retries exceeded with url: /api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url= (Caused by NameResolutionError(\"HTTPSConnection(host='api.json.icu', port=443): Failed to resolve 'api.json.icu' ([Errno -2] Name or service not known)\"))"
     },
     {
       "name": "全民",
@@ -171,40 +159,40 @@
       "reason": "HTTP 526"
     },
     {
+      "name": "8090",
+      "url": "https://www.8090.la/8090/?url=",
+      "ok": false,
+      "reason": "HTTPSConnectionPool(host='www.8090.la', port=443): Max retries exceeded with url: /8090/?url= (Caused by NameResolutionError(\"HTTPSConnection(host='www.8090.la', port=443): Failed to resolve 'www.8090.la' ([Errno -2] Name or service not known)\"))"
+    },
+    {
       "name": "腾云",
       "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
       "ok": false,
       "reason": "HTTP 403"
     },
     {
+      "name": "jsonplayer",
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "ok": false,
+      "reason": "HTTPSConnectionPool(host='jx.jsonplayer.com', port=443): Max retries exceeded with url: /player/?url= (Caused by NameResolutionError(\"HTTPSConnection(host='jx.jsonplayer.com', port=443): Failed to resolve 'jx.jsonplayer.com' ([Errno -2] Name or service not known)\"))"
+    },
+    {
       "name": "巧技",
       "url": "http://pandown.pro/app/kkdy.php?url=",
       "ok": false,
-      "reason": "HTTPConnectionPool(host='pandown.pro', port=80): Max retries exceeded with url: /app/kkdy.php?url= (Caused by ConnectTimeoutError(<HTTPConnection(host='pandown.pro', port=80) at 0x7fdb58608f10>, 'Connection to pandown.pro timed out. (connect timeout=10)'))"
+      "reason": "HTTPConnectionPool(host='pandown.pro', port=80): Max retries exceeded with url: /app/kkdy.php?url= (Caused by ConnectTimeoutError(<HTTPConnection(host='pandown.pro', port=80) at 0x7f1af4406290>, 'Connection to pandown.pro timed out. (connect timeout=10)'))"
     },
     {
       "name": "世界",
       "url": "http://175.178.183.192:84/api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url=",
       "ok": false,
-      "reason": "HTTPConnectionPool(host='175.178.183.192', port=84): Max retries exceeded with url: /api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url= (Caused by ConnectTimeoutError(<HTTPConnection(host='175.178.183.192', port=84) at 0x7fdb58608fd0>, 'Connection to 175.178.183.192 timed out. (connect timeout=10)'))"
+      "reason": "HTTPConnectionPool(host='175.178.183.192', port=84): Max retries exceeded with url: /api/?key=f3913eb3f85a8298b3e6e427b8712b2e&url= (Caused by ConnectTimeoutError(<HTTPConnection(host='175.178.183.192', port=84) at 0x7f1af43ffad0>, 'Connection to 175.178.183.192 timed out. (connect timeout=10)'))"
     },
     {
       "name": "飞云",
       "url": "http://122.228.84.103:7777/api/?key=o9fQb0Jvz0qZzY19Jq&url=",
       "ok": false,
-      "reason": "HTTPConnectionPool(host='122.228.84.103', port=7777): Max retries exceeded with url: /api/?key=o9fQb0Jvz0qZzY19Jq&url= (Caused by ConnectTimeoutError(<HTTPConnection(host='122.228.84.103', port=7777) at 0x7fdb5860bfd0>, 'Connection to 122.228.84.103 timed out. (connect timeout=10)'))"
-    },
-    {
-      "name": "亮亮",
-      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
-      "ok": false,
-      "reason": "HTTPConnectionPool(host='xiutan.shiyifacai.com', port=80): Max retries exceeded with url: /json/qingfeng.php?url= (Caused by ConnectTimeoutError(<HTTPConnection(host='xiutan.shiyifacai.com', port=80) at 0x7fdb597cd590>, 'Connection to xiutan.shiyifacai.com timed out. (connect timeout=10)'))"
-    },
-    {
-      "name": "-zui-",
-      "url": "https://jx.zui.cm/?url=",
-      "ok": false,
-      "reason": "HTTPSConnectionPool(host='jx.zui.cm', port=443): Max retries exceeded with url: /?url= (Caused by NameResolutionError(\"HTTPSConnection(host='jx.zui.cm', port=443): Failed to resolve 'jx.zui.cm' ([Errno -2] Name or service not known)\"))"
+      "reason": "HTTPConnectionPool(host='122.228.84.103', port=7777): Max retries exceeded with url: /api/?key=o9fQb0Jvz0qZzY19Jq&url= (Caused by ConnectTimeoutError(<HTTPConnection(host='122.228.84.103', port=7777) at 0x7f1af85ded50>, 'Connection to 122.228.84.103 timed out. (connect timeout=10)'))"
     },
     {
       "name": "赞赞",
@@ -213,16 +201,28 @@
       "reason": "HTTPSConnectionPool(host='vip.yybjs.top', port=443): Max retries exceeded with url: /home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url= (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1016)')))"
     },
     {
+      "name": "亮亮",
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+      "ok": false,
+      "reason": "HTTPConnectionPool(host='xiutan.shiyifacai.com', port=80): Max retries exceeded with url: /json/qingfeng.php?url= (Caused by ConnectTimeoutError(<HTTPConnection(host='xiutan.shiyifacai.com', port=80) at 0x7f1af85c7b90>, 'Connection to xiutan.shiyifacai.com timed out. (connect timeout=10)'))"
+    },
+    {
+      "name": "-zui-",
+      "url": "https://jx.zui.cm/?url=",
+      "ok": false,
+      "reason": "HTTPSConnectionPool(host='jx.zui.cm', port=443): Max retries exceeded with url: /?url= (Caused by NameResolutionError(\"HTTPSConnection(host='jx.zui.cm', port=443): Failed to resolve 'jx.zui.cm' ([Errno -2] Name or service not known)\"))"
+    },
+    {
       "name": "左岸",
       "url": "http://122.228.84.103:5829/jx/?url=",
       "ok": false,
-      "reason": "HTTPConnectionPool(host='122.228.84.103', port=5829): Max retries exceeded with url: /jx/?url= (Caused by ConnectTimeoutError(<HTTPConnection(host='122.228.84.103', port=5829) at 0x7fdb597ddc50>, 'Connection to 122.228.84.103 timed out. (connect timeout=10)'))"
+      "reason": "HTTPConnectionPool(host='122.228.84.103', port=5829): Max retries exceeded with url: /jx/?url= (Caused by ConnectTimeoutError(<HTTPConnection(host='122.228.84.103', port=5829) at 0x7f1af4405450>, 'Connection to 122.228.84.103 timed out. (connect timeout=10)'))"
     },
     {
       "name": "巧技二",
       "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
       "ok": false,
-      "reason": "HTTPConnectionPool(host='pan.qiaoji8.com', port=80): Max retries exceeded with url: /tvbox/gouzi.php?url= (Caused by ConnectTimeoutError(<HTTPConnection(host='pan.qiaoji8.com', port=80) at 0x7fdb585f2b10>, 'Connection to pan.qiaoji8.com timed out. (connect timeout=10)'))"
+      "reason": "HTTPConnectionPool(host='pan.qiaoji8.com', port=80): Max retries exceeded with url: /tvbox/gouzi.php?url= (Caused by ConnectTimeoutError(<HTTPConnection(host='pan.qiaoji8.com', port=80) at 0x7f1af43f1d90>, 'Connection to pan.qiaoji8.com timed out. (connect timeout=10)'))"
     }
   ],
   "live_sources": [
@@ -269,14 +269,14 @@
       "reason": "检测到 HLS 播放列表"
     },
     {
-      "name": "1KZN TV (576p)",
-      "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
+      "name": "1TV (720p)",
+      "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
     {
-      "name": "1TV (720p)",
-      "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8",
+      "name": "1KZN TV (576p)",
+      "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
@@ -293,14 +293,14 @@
       "reason": "检测到 HLS 播放列表"
     },
     {
-      "name": "1Twente TV (1080p)",
-      "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
+      "name": "2M",
+      "url": "http://185.9.2.18/chid_218/index.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
     {
-      "name": "2M",
-      "url": "http://185.9.2.18/chid_218/index.m3u8",
+      "name": "1Twente TV (1080p)",
+      "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
@@ -323,26 +323,26 @@
       "reason": "检测到 HLS 播放列表"
     },
     {
-      "name": "3ABN English",
-      "url": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8",
-      "ok": true,
-      "reason": "检测到 HLS 播放列表"
-    },
-    {
       "name": "3ABN French",
       "url": "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
     {
-      "name": "3ABN International (720p)",
-      "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
+      "name": "3ABN English",
+      "url": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
     {
       "name": "3ABN Latino (1080p)",
       "url": "http://138.59.177.78:9999/play/a0a3/index.m3u8",
+      "ok": true,
+      "reason": "检测到 HLS 播放列表"
+    },
+    {
+      "name": "3ABN International (720p)",
+      "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
@@ -371,26 +371,26 @@
       "reason": "检测到 HLS 播放列表"
     },
     {
-      "name": "3Cat Cameres del temps (1080p)",
-      "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
-      "ok": true,
-      "reason": "检测到 HLS 播放列表"
-    },
-    {
       "name": "3AW (1080p)",
       "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
     {
-      "name": "3HD",
-      "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
+      "name": "3Cat Cameres del temps (1080p)",
+      "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
     {
       "name": "3CatInfo (1080p)",
       "url": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+      "ok": true,
+      "reason": "检测到 HLS 播放列表"
+    },
+    {
+      "name": "3HD",
+      "url": "https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
@@ -455,14 +455,14 @@
       "reason": "检测到 HLS 播放列表"
     },
     {
-      "name": "4Kurd",
-      "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
+      "name": "4 Fun TV",
+      "url": "https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
     {
-      "name": "4 Fun TV",
-      "url": "https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8",
+      "name": "4Kurd",
+      "url": "https://4kuhls.persiana.live/hls/stream.m3u8",
       "ok": true,
       "reason": "检测到 HLS 播放列表"
     },
@@ -544,6 +544,6 @@
     "sites": 18,
     "parses": 14,
     "lives": 38,
-    "elapsed_seconds": 55.86
+    "elapsed_seconds": 66.04
   }
 }
