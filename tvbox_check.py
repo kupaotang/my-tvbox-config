@@ -18,9 +18,8 @@ INTERFACE_PAGES = [
 ]
 
 PARSE_CONFIG_URLS = [
-    "https://gitee.com/zhanghong1983/tvbox/raw/master/jx.json",
-    "https://raw.liucn.cc/box/m.json",
-    "https://jihulab.com/ygbh1/tvbox/-/raw/main/jx.json",
+PARSE_CONFIG_URLS = [
+    "https://raw.githubusercontent.com/TVboxorg/TVbox/main/dist/official.json",
 ]
 
 LIVE_URLS = [
