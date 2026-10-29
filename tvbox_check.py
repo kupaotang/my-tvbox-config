@@ -19,7 +19,7 @@ INTERFACE_PAGES = [
 
 PARSE_CONFIG_URLS = [
     "https://gitee.com/zhanghong1983/tvbox/raw/master/jx.json",
-    "https://gitee.com/liu673cn/box/raw/main/jx.json",
+    "https://raw.liucn.cc/box/m.json",
     "https://jihulab.com/ygbh1/tvbox/-/raw/main/jx.json",
 ]
 
