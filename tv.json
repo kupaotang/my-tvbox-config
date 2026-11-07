@@ -403,65 +403,6 @@
       "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 0
-    },
-    {
-      "key": "tv_back-024_暴風",
-      "name": "🦔暴風┃采集·荐片",
-      "type": 1,
-      "api": "https://bfzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "tv_back-024_索尼",
-      "name": "🦜索尼┃采集·荐片",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "tv_back-024_360",
-      "name": "🦚360┃采集·荐片",
-      "type": 1,
-      "api": "https://360zy.com/api.php/provide/vod?",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "古装片",
-        "悬疑片",
-        "犯罪片",
-        "灾难片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "现代都市",
-        "脑洞悬疑",
-        "年代穿越",
-        "古装仙侠",
-        "女频恋爱",
-        "成长逆袭",
-        "反转爽剧"
-      ]
     }
   ],
   "parses": [
@@ -469,6 +410,32 @@
       "name": "xmflv",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "剖云",
+      "type": 0,
+      "url": "https://www.pouyun.com/?url=",
       "ext": {
         "flag": [
           "qq",
@@ -719,9 +686,9 @@
   ],
   "lives": [
     {
-      "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",1+1 Ukraina (1080p)",
+      "name": "1+1 International HD (720p)",
       "type": 0,
-      "url": "http://stream.mcquack.net/219/index.m3u8"
+      "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8"
     },
     {
       "name": "1+1 Marafon (1080p)",
@@ -729,24 +696,14 @@
       "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8"
     },
     {
-      "name": "1+1 International HD (720p)",
-      "type": 0,
-      "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8"
-    },
-    {
       "name": "1AlmereTV (720p)",
       "type": 0,
       "url": "https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8"
     },
     {
-      "name": "1HD Music Television (1080p)",
+      "name": "like Gecko) Chrome/120.0.0.0 Safari/537.36\" group-title=\"General\",1+1 Ukraina (1080p)",
       "type": 0,
-      "url": "http://176.118.197.101/1HD/index.m3u8"
-    },
-    {
-      "name": "1TV (720p)",
-      "type": 0,
-      "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8"
+      "url": "http://stream.mcquack.net/219/index.m3u8"
     },
     {
       "name": "1KZN TV (576p)",
@@ -754,19 +711,19 @@
       "url": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8"
     },
     {
+      "name": "1HD Music Television (1080p)",
+      "type": 0,
+      "url": "http://176.118.197.101/1HD/index.m3u8"
+    },
+    {
       "name": "like Gecko) Chrome/130.0.0.0 Safari/537.36\" group-title=\"General\",2+2 (1080p)",
       "type": 0,
       "url": "http://stream.mcquack.net/173/index.m3u8"
     },
     {
-      "name": "1Twente TV (1080p)",
+      "name": "1TV (720p)",
       "type": 0,
-      "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8"
-    },
-    {
-      "name": "2GB (1080p)",
-      "type": 0,
-      "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8"
+      "url": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8"
     },
     {
       "name": "2M (576p)",
@@ -774,9 +731,29 @@
       "url": "http://185.9.2.18/chid_218/index.m3u8"
     },
     {
+      "name": "2GB (1080p)",
+      "type": 0,
+      "url": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8"
+    },
+    {
+      "name": "1Twente TV (1080p)",
+      "type": 0,
+      "url": "https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8"
+    },
+    {
+      "name": "2M Monde +1 (1080p)",
+      "type": 0,
+      "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
+    },
+    {
       "name": "2 TV (720p)",
       "type": 0,
       "url": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8"
+    },
+    {
+      "name": "2x2 (576p)",
+      "type": 0,
+      "url": "http://176.118.197.101/2x2/index.m3u8"
     },
     {
       "name": "3ABN Canada (720p)",
@@ -789,19 +766,14 @@
       "url": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8"
     },
     {
-      "name": "2x2 (576p)",
+      "name": "3ABN French (720p)",
       "type": 0,
-      "url": "http://176.118.197.101/2x2/index.m3u8"
+      "url": "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8"
     },
     {
       "name": "3ABN International (720p)",
       "type": 0,
       "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8"
-    },
-    {
-      "name": "3ABN French (720p)",
-      "type": 0,
-      "url": "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8"
     },
     {
       "name": "3ABN Latino (1080p)",
@@ -824,24 +796,19 @@
       "url": "https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8"
     },
     {
-      "name": "2M Monde +1 (1080p)",
-      "type": 0,
-      "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8"
-    },
-    {
       "name": "3AW (1080p)",
       "type": 0,
       "url": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8"
     },
     {
-      "name": "3ABN Russia (720p)",
-      "type": 0,
-      "url": "https://hls.tv.3angels.ru/stream.m3u8"
-    },
-    {
       "name": "3Cat Cameres del temps (1080p)",
       "type": 0,
       "url": "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8"
+    },
+    {
+      "name": "3ABN Russia (720p)",
+      "type": 0,
+      "url": "https://hls.tv.3angels.ru/stream.m3u8"
     },
     {
       "name": "3HD (576p)",
@@ -864,19 +831,9 @@
       "url": "https://dash4.antik.sk/live/test_drei_sat_tizen/playlist.m3u8"
     },
     {
-      "name": "4Dmas Noticias TV (1080p) [Not 24/7]",
-      "type": 0,
-      "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8"
-    },
-    {
       "name": "4ever Cinema (1080p)",
       "type": 0,
       "url": "http://stream.mcquack.net/258/index.m3u8"
-    },
-    {
-      "name": "4E (1080p)",
-      "type": 0,
-      "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
     },
     {
       "name": "4ever Drama (1080p)",
@@ -894,9 +851,19 @@
       "url": "http://stream.mcquack.net/259/index.m3u8"
     },
     {
+      "name": "4E (1080p)",
+      "type": 0,
+      "url": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8"
+    },
+    {
       "name": "4 Fun Dance",
       "type": 0,
       "url": "http://92.114.85.87:8018/play/a00k/index.m3u8"
+    },
+    {
+      "name": "4 Fun Kids (576i)",
+      "type": 0,
+      "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8"
     },
     {
       "name": "4 Fun TV",
@@ -907,11 +874,6 @@
       "name": "4Kurd",
       "type": 0,
       "url": "https://4kuhls.persiana.live/hls/stream.m3u8"
-    },
-    {
-      "name": "4 Fun Kids (576i)",
-      "type": 0,
-      "url": "https://stream.4fun.tv:8889/hls/4fk.m3u8"
     }
   ]
 }
